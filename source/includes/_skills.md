@@ -1,4 +1,4 @@
-# Skill (Amazon Echo/Alexa)
+# Skill (Amazon Alexa)
 ## Request Skill Access
 ### HTTP Request
 
